@@ -1,0 +1,13 @@
+# 内容版权 / Content rights
+
+软件代码继续适用仓库中的 MIT 许可证，须保留原作者及第三方声明。
+
+除另有明确许可外，站主原创文章、摄影作品及其他原创非代码内容保留所有权利，不适用软件的 MIT 许可。除法律允许的情形外，转载、改编、再分发或商业使用须取得权利人授权。个人事实的公开展示不代表允许冒用作者身份。
+
+示例文章、第三方图片、论文及其他引用材料的权利属于各自权利人，并以其原有许可和页面标注为准。当前摄影样片包含 AI 概念图和 Unsplash 示例，不能作为站主原创摄影作品使用。此声明不撤回先前已有效授予的许可。
+
+Software remains subject to the MIT license and applicable third-party notices.
+
+Unless explicitly licensed otherwise, original articles, photographs and other original non-code content by the site owner are reserved and excluded from the software MIT license. Except where permitted by law, republication, adaptation, redistribution or commercial use requires permission from the relevant rights holder.
+
+Examples, third-party photographs, papers and quoted material remain subject to their respective rights and licenses. Photography placeholders include an AI concept image and Unsplash examples; they are not the site owner's original photographs. This notice does not revoke previously valid license grants.
